@@ -36,15 +36,6 @@
   
 </p>
 
-<h3 align="left">Support:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nayeonyny&show_icons=true&locale=en" alt="nayeonyny" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayeonyny&" alt="nayeonyny" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nayeonyny/nayeonyny/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nayeonyny/nayeonyny/output/pacman-contribution-graph.svg">
