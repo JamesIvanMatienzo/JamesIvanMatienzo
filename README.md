@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm James Ivan Matienzo</h1>
 <h3 align="center">Computer Science Student aiming to be stable one day</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nayeonyny&label=Profile%20views&color=0e75b6&style=flat" alt="nayeonyny" />
-</p>
-
-- 🌱 I’m currently learning **Pandas, Data Visualization, Statistics**
 - 💬 Ask me about **Mathematics, Statistics, Linear Algebra, Discrete Math**
 - 📫 How to reach me **jamesmatienzo8@gmail.com**
 
@@ -13,7 +8,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/james-ivan-matienzo-b6005532b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james ivan matienzo" height="30" width="40" /></a>
   <a href="https://www.facebook.com/jamesivan.matienzo.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="james ivan matienzo" height="30" width="40" /></a>
-  <a href="https://instagram.com/knsnnt._.fueco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="knsnnt._.fueco" height="30" width="40" /></a>
+  <a href="https://instagram.com/vani._.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="knsnnt._.fueco" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
