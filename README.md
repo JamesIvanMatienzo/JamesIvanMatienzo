@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Ivan Matienzo</h1>
 <h3 align="center">Computer Science Student aiming to be stable one day</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nayeonyny/nayeonyny/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%">
-</p>
-
 
 ### 🚀 About Me
 
@@ -18,7 +14,6 @@
 <a href="https://www.facebook.com/jamesivan.matienzo.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="james ivan matienzo" height="30" width="40" /></a>
 <a href="https://instagram.com/vani._.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="knsnnt._.fueco" height="30" width="40" /></a>
 </p>
-
 
 ### 🛠 Languages and Tools:
 
@@ -46,7 +41,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 </p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nayeonyny/nayeonyny/output/pacman-contribution-graph-dark.svg">
