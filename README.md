@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning : ML/AI, SQL, Data Engineering/Data Visualization<br>💬 Ask me about : Mathematics, Statistics, Linear Algebra, and Discrete Math**<br>📫 How to reach me: jamesmatienzo8@gmail.com
+🌱 I’m currently learning : ML/AI, SQL, Data Engineering/Data Visualization<br>💬 Ask me about : Mathematics, Statistics, Linear Algebra, and Discrete Math<br>📫 How to reach me: jamesmatienzo8@gmail.com
 
 
 ## 🌐 Socials:
